@@ -1,11 +1,3 @@
-// File name: X_O_Board.cpp
-// Purpose: Class definition for X_O_Board class
-// Author(s):  Dr Elramly, Yousef Mostafa, Ahmed nasser
-// ID(s): 20220413, 20220045
-// Section: S23
-// Date: 16/12/2023
-// Version: 1.0
-
 #include <iostream>
 #include <random>
 #include <iomanip>
