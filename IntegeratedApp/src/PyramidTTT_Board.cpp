@@ -1,11 +1,3 @@
-// File name: PyramidTTTBoard.cpp
-// Purpose: Make Implementaion Of Parameterize Constructor And Each Function In PyramidTicTacToeBoard Class
-// Author(s): Ahmed Nasser Ahmed Mohamed
-// ID(s): 20220045
-// Section: S23
-// Date: 12/12/2023
-// Version: 1
-
 #include "BoardGame_Classes.hpp"
 #include "PyramidTicTacToeBoard.h"
 #include <iostream>
