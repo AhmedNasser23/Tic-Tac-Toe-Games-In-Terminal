@@ -1,11 +1,3 @@
-// File name: Player.cpp
-// Purpose: Implementation Of Each Function In Class Player
-// Author(s): Dr El-Ramly, Yousef Mostafa, Ahmed Nasser 
-// ID(s): 20220413
-// Section: S23
-// Date: 16/12/2023
-// Version: 1.0
-
 #include<iostream>
 #include"BoardGame_Classes.hpp"
 using namespace std;
