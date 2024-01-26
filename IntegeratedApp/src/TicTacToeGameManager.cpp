@@ -1,11 +1,3 @@
-// File name: TicTacToeGameManager.cpp
-// Purpose: Make Implementation Of Parameterize Constructor And run Function In TicTacToeGameManager Class
-// Author(s): Yousef Mostafa, Ahmed nasser
-// ID(s): 20220413, 20220045
-// Section: S23
-// Date: 16/12/2023
-// Version: 1.0
-
 #include "TicTacToeGameManager.h"
 #include <iostream>
 
