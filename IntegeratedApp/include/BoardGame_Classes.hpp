@@ -1,11 +1,3 @@
-// File name: BoardGame_Classes.hpp
-// Purpose: Classes That Will Be Used In Each Game
-// Author(s): Dr Elramly, Ahmed Nasser Ahmed Mohamed, Yousef Mostafa Farouk
-// ID(s): 20220045, 20220413
-// Section: S23
-// Date: 12/12/2023
-// Version: 1
-
 #ifndef _BoardGame_CLASSES_H
 #define _BoardGame_CLASSES_H
 using namespace std;
