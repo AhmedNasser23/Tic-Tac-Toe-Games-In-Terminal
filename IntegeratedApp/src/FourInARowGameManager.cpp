@@ -1,11 +1,3 @@
-// File name: FourInARowGameManager.cpp
-// Purpose: Game Manager for the four in a row game
-// Author(s): Yousef Mostafa, Ahmed Nasser
-// ID(s): 20220413
-// Section: S23
-// Date: 16/12/2023
-// Version: 1.0
-
 #include "FourInARowGameManager.h"
 #include "iostream"
 
