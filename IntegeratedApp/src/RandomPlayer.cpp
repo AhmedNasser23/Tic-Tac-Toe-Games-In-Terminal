@@ -1,11 +1,3 @@
-﻿// File name: RandomPlayer.cpp
-// Purpose: Make Implementaion Of Parameterize Constructor And Function get_move In Random Player Class
-// Author(s): Yousef Mostafa, Ahmed Nasser
-// ID(s): 20220413, 20220045
-// Section: S23
-// Date: 12/12/2023
-//�Version: 1
-
 #include<iostream>
 #include"BoardGame_Classes.hpp"
 using namespace std;
