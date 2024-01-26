@@ -1,12 +1,3 @@
-// File name: FourInARowGameManager.cpp
-// Purpose: Integrated application containing the four games
-// Author(s): Yousef Mostafa, Ahmed Nasser
-// ID(s): 20220413, 20220045
-// Section: S23
-// Date: 16/12/2023
-// Version: 1.0
-
-
 #include "BoardGame_Classes.hpp"
 #include "FiveByFiveXOBoard.h"
 #include "FiveByFiveXOBoardManager.h"
